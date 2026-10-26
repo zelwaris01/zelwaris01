@@ -14,9 +14,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karim-baggari-1b34181a8)
 [![Medium](https://img.shields.io/badge/Medium-Articles-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kariim.baggarii)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/karimbaggari)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zelwaris01)
 
-![Profile Views](https://komarev.com/ghpvc/?username=karimbaggari&color=70a5fd&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=zelwaris01&color=70a5fd&style=flat-square)
 
 </div>
 
@@ -180,6 +180,8 @@ To me, being a strong engineer means not only solving problems but also understa
 
 ## 📊 GitHub Analytics
 
+*Historical statistics from my previous GitHub account, [@karimbaggari](https://github.com/karimbaggari).*
+
 <div align="center">
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=karimbaggari&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
@@ -196,9 +198,11 @@ To me, being a strong engineer means not only solving problems but also understa
 
 ## 🐍 My Contributions, in Motion
 
+*Contribution history from my previous GitHub account, [@karimbaggari](https://github.com/karimbaggari). The animation is regenerated daily in this repository.*
+
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/karimbaggari/karimbaggari/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
+<img src="https://raw.githubusercontent.com/zelwaris01/zelwaris01/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
 
 </div>
 
