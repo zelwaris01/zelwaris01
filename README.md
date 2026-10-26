@@ -26,7 +26,7 @@
 
 I'm a **Senior Full-Stack Software Engineer** based in Morocco 🇲🇦, passionate about turning complex problems into elegant, reliable software.
 
-I work across the entire application stack, from building responsive, high-performance interfaces with **React, Next.js, and TypeScript** to developing robust backend services and APIs using **Node.js, Go, and PHP**.
+I work across the entire application stack, from building responsive, high-performance interfaces with **React, Next.js, and TypeScript** to developing robust backend services and APIs using **Node.js, Go**.
 
 My engineering interests go beyond writing code. I enjoy exploring **system design, software architecture, cloud infrastructure, security, and performance optimization**.
 
@@ -38,7 +38,7 @@ const karim = {
   location: "Morocco 🇲🇦",
 
   frontend: ["React", "Next.js", "TypeScript"],
-  backend: ["Node.js", "Go", "PHP"],
+  backend: ["Node.js", "Go"],
   interests: [
     "Software Architecture",
     "Cloud Engineering",
@@ -64,9 +64,9 @@ const karim = {
 
 ### ⚙️ Backend Engineering
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,go,php,symfony,java,spring&theme=dark" alt="Backend skills" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,go,java,spring&theme=dark" alt="Backend skills" />
 
-**Node.js · Express · NestJS · Go · PHP · Symfony · Java · Spring**
+**Node.js · Express · NestJS · Go · Java · Spring**
 
 ### 🗄️ Databases & Data
 
